@@ -1,0 +1,41 @@
+{
+    "__class__": "ManejadorContactos",
+    "contactos": [
+        {
+            "__class__": "Contacto",
+            "__atributos__": {
+                "apellido": "Benemerito",
+                "nombre": "Ignacio",
+                "email": "ignacio.benemerito@gmail.com",
+                "telefono": "(264)4860777"
+            }
+        },
+        {
+            "__class__": "Contacto",
+            "__atributos__": {
+                "apellido": "Babsia",
+                "nombre": "Santiago",
+                "email": "babsia1santiago@gmail.com",
+                "telefono": "(264)4444444"
+            }
+        },
+        {
+            "__class__": "Contacto",
+            "__atributos__": {
+                "apellido": "Pe\u00f1a",
+                "nombre": "Juan",
+                "email": "juan@gmail.com",
+                "telefono": "(264)5555555"
+            }
+        },
+        {
+            "__class__": "Contacto",
+            "__atributos__": {
+                "apellido": "Otro",
+                "nombre": "Isaac",
+                "email": "isaac@gmail.com",
+                "telefono": "(264)3333333"
+            }
+        }
+    ]
+}
